@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Bio Library</title>
+</head>
+
+<body>
+
+<h1>📚 BIO LIBRARY</h1>
+
+<ul>
+
+<li>
+📁
+<a href="3-mon-QTTB/">
+3 MÔN QTTB
+</a>
+</li>
+
+<li>
+📁
+<a href="SINH HOC/">
+SINH HOC
+</a>
+</li>
+
+<li>
+📁
+<a href="TU CHON TU DO/">
+TU CHON TU DO
+</a>
+</li>
+
+<li>
+📁
+<a href="DAI-CUONG/">
+ĐẠI CƯƠNG
+</a>
+</li>
+
+<li>
+📁
+<a href="HOA HOC/">
+HOA HOC
+</a>
+</li>
+
+<li>
+📁
+<a href="CHINH TRI/">
+CHINH TRI
+</a>
+</li>
+
+<li>
+📁
+<a href="THI NGHIEM/">
+THI NGHIEM
+</a>
+</li>
+
+<li>
+📁
+<a href="VE KT/">
+VE KT
+</a>
+</li>
+
+
+</ul>
+
+</body>
+
+</html>
